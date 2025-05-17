@@ -4,7 +4,7 @@
 - 🌱 Estou em busca de uma oportunidade na área para mostrar minhas habilidades e aprender novas técnicas.
 - 🤝 Tenho interesse em participar de projetos em grupo e projetos voluntários para ganhar experiência.
 - 📫 Como me contatar: [WhatsApp](https://wa.me/5531996068639)
-- 😄 Idade: 24 anos
+- 😄 Idade: 25 anos
 
 <!---
 ThiagoSousaDevJS/ThiagoSousaDevJS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
